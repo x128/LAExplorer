@@ -1,0 +1,6 @@
+# Deploy: mac
+Frameworks/*.framework
+
+# Qt
+*.pro.user
+
